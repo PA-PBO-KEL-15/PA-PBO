@@ -12,7 +12,7 @@ Manajemen penayangan film di bioskop adalah sebuah proses yang sangat penting da
 ![image](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/e179a9ba-a1df-4d15-b9c8-8a4ee0cf53a2)
 ## Screenshot Coding dan Penjelasan
 ![Screenshot (1109)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/c5636912-a5c0-4834-94c8-b5f4e70a2435)
-## Screenshot Output
+
 ![Screenshot (1132)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/7e18db9f-1878-4ca8-aa4a-18080a125d00)
 
 - Kode bagian ini adalah deklarasi paket (package) yang digunakan untuk mengelompokkan kelas-kelas terkait dalam program.
@@ -57,6 +57,7 @@ Manajemen penayangan film di bioskop adalah sebuah proses yang sangat penting da
 
 - Metode ini digunakan untuk mengambil semua data penayangan dari database dan mengembalikannya dalam bentuk daftar objek Penayangan. Prosesnya dimulai dengan mengatur koneksi ke database dan menjalankan query SQL untuk mengambil semua data penayangan dari tabel. Data tersebut kemudian digunakan untuk membuat objek-objek Penayangan yang disimpan dalam daftar. Metode akan mengembalikan daftar objek Penayangan tersebut.
 
+## Screenshot Output
 ### Login
 - Awal (Login dan Super Admin)
   
