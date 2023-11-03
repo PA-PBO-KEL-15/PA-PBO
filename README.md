@@ -14,6 +14,93 @@ Manajemen penayangan film di bioskop adalah sebuah proses yang sangat penting da
 ### Struktur Packages
 ![Screenshot (1109)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/c5636912-a5c0-4834-94c8-b5f4e70a2435)
 
+* **CRUD_ADMIN**
+    * Paket-paket ini berisi kode untuk aplikasi CRUD (Create, Read, Update, Delete) yang digunakan oleh admin untuk mengelola data film dan penayangan.
+* **CRUD_SUPERADMIN**
+    * Paket-paket ini berisi kode untuk aplikasi CRUD yang digunakan oleh superadmin untuk mengelola data film, penayangan, dan admin.
+* **FOTO.FOTO GUI**
+    * Paket-paket ini berisi gambar yang digunakan untuk antarmuka pengguna (GUI) aplikasi.
+* **Login**
+    * Paket-paket ini berisi kode untuk aplikasi login yang digunakan pengguna untuk masuk ke sistem.
+* **ORM**
+    * Paket-paket ini berisi kode untuk Object-Relational Mapping (ORM), yang digunakan untuk menghubungkan data dari database ke objek dalam kode.
+* **database**
+    * Paket ini berisi kode untuk database yang digunakan oleh aplikasi.
+* **models**
+    * Paket ini berisi model data untuk aplikasi.
+
+Berikut adalah penjelasan lebih rinci tentang masing-masing paket sumber:
+
+**CRUD_ADMIN**
+
+* **EditPenayangan.java**
+    * Kode untuk mengedit data penayangan.
+* **HapusPenayangan.java**
+    * Kode untuk menghapus data penayangan.
+* **LihatPenayangan.java**
+    * Kode untuk menampilkan data penayangan.
+* **MENU_ADMIN.java**
+    * Kode untuk menampilkan menu admin.
+* **TambahPenayangan.java**
+    * Kode untuk menambahkan data penayangan.
+
+**CRUD_SUPERADMIN**
+
+* **EditFilm.java**
+    * Kode untuk mengedit data film.
+* **HapusFilm.java**
+    * Kode untuk menghapus data film.
+* **LihatFilm.java**
+    * Kode untuk menampilkan data film.
+* **MENU SUPERADMIN.java**
+    * Kode untuk menampilkan menu superadmin.
+* **TambahFilm.java**
+    * Kode untuk menambahkan data film.
+
+**FOTO.FOTO GUI**
+
+* **CRUD.png**
+    * Gambar untuk ikon aplikasi CRUD.
+* **FOTO GUI.jpg**
+    * Gambar untuk latar belakang antarmuka pengguna.
+* **awal.png**
+    * Gambar untuk ikon halaman awal.
+* **login.png**
+    * Gambar untuk ikon halaman login.
+* **menu.png**
+    * Gambar untuk ikon halaman menu.
+
+**Login**
+
+* **Awal.java**
+    * Kode untuk menampilkan halaman awal.
+* **LOGIN_ADMIN.java**
+    * Kode untuk proses login admin.
+* **LOGIN SUPERADMIN.java**
+    * Kode untuk proses login superadmin.
+
+**ORM**
+
+* **Film.java**
+    * Model data untuk film.
+* **FilmInterface.java**
+    * Antarmuka untuk model data film.
+* **Penayangan.java**
+    * Model data untuk penayangan.
+* **PenayanganDAO.java**
+    * Kelas untuk mengakses data penayangan dari database.
+
+**database**
+
+* **databases1.java**
+    * Kode untuk membuat database.
+
+**models**
+
+* **SuperAdmin.java**
+    * Model data untuk superadmin.
+
+
 ### Class Penayangan di Package ORM
 
 ![Screenshot (1132)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/7e18db9f-1878-4ca8-aa4a-18080a125d00)
