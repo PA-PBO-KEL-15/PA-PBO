@@ -13,6 +13,30 @@ Manajemen penayangan film di bioskop adalah sebuah proses yang sangat penting da
 ## Screenshot Coding dan Penjelasan
 ![Screenshot (1109)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/c5636912-a5c0-4834-94c8-b5f4e70a2435)
 ## Screenshot Output
+![Screenshot (1132)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/7e18db9f-1878-4ca8-aa4a-18080a125d00)
+
+![Screenshot (1133)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/f26223bc-c641-4039-b26a-c3f73319e804)
+
+![Screenshot (1134)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/efdc79a7-51e4-43b2-903e-3d833c78c50e)
+
+![Screenshot (1135)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/182d83c3-8388-4e4a-b42b-893d55a258f2)
+
+![Screenshot (1136)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/dd50f4c2-a480-4528-ad29-e934927e0163)
+
+![Screenshot (1137)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/ef71b324-4197-4e04-adea-712344b5633d)
+
+![Screenshot (1138)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/b31423d5-94fe-41bf-bee0-55fbbed5c606)
+
+![Screenshot (1139)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/d3b9dc5e-acea-4675-850b-b8bfb13a70f2)
+
+![Screenshot (1140)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/b52e6ff7-0b54-48be-9b9c-cffc50a41255)
+
+![Screenshot (1141)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/7426769b-e459-44b2-8b70-01e35d00bb1a)
+
+![Screenshot (1142)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/106670c4-7b44-4e43-8209-030f67338f8e)
+
+
+
 ### Login
 - Awal (Login dan Super Admin)
   
