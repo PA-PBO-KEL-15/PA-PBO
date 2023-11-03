@@ -35,23 +35,23 @@ Manajemen penayangan film di bioskop adalah sebuah proses yang sangat penting da
 
 ![Tambah Penayangan](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/1a1249b2-0591-4b8e-9a3a-7966cd84bb33)
 
--Lihat Penayangan
+- Lihat Penayangan
 
 ![Lihat Penayangan](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/ed003cf9-a77f-4d2a-b6c6-cd59833e54c7)
 
--Edit Penayangan
+- Edit Penayangan
 
 ![Edit Penayangan](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/38f0feb8-7651-40d2-9848-56cd0c43c67e)
 
--Lihat Penayangan setelah Edit
+- Lihat Penayangan setelah Edit
 
 ![Lihat Penayangan setelah Edit](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/7629594f-0f60-4840-b022-8286fc550a87)
 
--Hapus Penayangan
+- Hapus Penayangan
 
 ![Hapus Penayangan](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/66621a46-c69d-4b14-91a6-781458ee8024)
 
--Lihat Penayangan setelah Hapus
+- Lihat Penayangan setelah Hapus
 
 ![Lihat Penayangan setelah Hapus](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/9c450108-b6c9-4f94-8b0c-616e417d5fd6)
 
