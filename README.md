@@ -12,6 +12,7 @@ Manajemen penayangan film di bioskop adalah sebuah proses yang sangat penting da
 ![logiical fix](https://github.com/kelompok-15-pbo/PA_PBO_KEL15/assets/122262846/e4fedfc4-e717-4c05-8dc5-49db65e9cd0f)
 ## Screenshot Coding
 ![Screenshot (1109)](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/c5636912-a5c0-4834-94c8-b5f4e70a2435)
+## Screenshot Output
 
 
 
