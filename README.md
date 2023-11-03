@@ -1,7 +1,7 @@
 # Manajemen Penayangan Film di Bioskop CGY
 ## Anggota Kelompok 15
 - Stephanie Elfriede Ginting (2209116037)
-- Bertha Joy Rodo Saragi (22091160)
+- Bertha Joy Rodo Saragi (2209116047)
 ## Deskripsi Project
 Manajemen penayangan film di bioskop adalah sebuah proses yang sangat penting dalam industri hiburan. Ini melibatkan perencanaan, pengaturan, dan pengelolaan jadwal penayangan film di bioskop dengan tujuan memberikan pengalaman yang optimal bagi penonton. Para manajer bioskop harus mempertimbangkan berbagai faktor seperti jadwal rilis film, durasi film, kapasitas ruang, dan preferensi penonton. Mereka juga harus menjaga kualitas layar, suara, dan kenyamanan ruang teater agar memenuhi harapan penonton. Selain itu, strategi pemasaran dan promosi juga menjadi bagian integral dari manajemen penayangan film untuk menarik lebih banyak penonton ke bioskop. Dengan teknologi terbaru dan variasi jenis film yang tersedia, manajemen penayangan film menjadi kunci dalam menjaga daya tarik bioskop sebagai tempat hiburan yang tak tergantikan.
 ## Flowchart
