@@ -7,7 +7,7 @@ Manajemen penayangan film di bioskop adalah sebuah proses yang sangat penting da
 ## Flowchart
 ![FC PA PBO drawio](https://github.com/kelompok-15-pbo/PA_PBO_KEL15/assets/122262846/f8b6b997-e0db-4645-b591-cc831c5720ae)
 ## Hirarki Kelas
-![Hirarki drawio](https://github.com/kelompok-15-pbo/PA_PBO_KEL15/assets/122262846/b73857ef-c4b4-45a7-87ba-789198c69f46)
+![HIRARKI PBO drawio](https://github.com/PA-PBO-KEL-15/PA-PBO/assets/126863743/d8c9e116-9091-43ed-8d42-2a8224916016)
 ## ERD
 ![logiical fix](https://github.com/kelompok-15-pbo/PA_PBO_KEL15/assets/122262846/e4fedfc4-e717-4c05-8dc5-49db65e9cd0f)
 
