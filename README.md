@@ -29,8 +29,6 @@ Manajemen penayangan film di bioskop adalah sebuah proses yang sangat penting da
 * **models**
     * Paket ini berisi model data untuk aplikasi.
 
-Berikut adalah penjelasan lebih rinci tentang masing-masing paket sumber:
-
 **CRUD_ADMIN**
 
 * **EditPenayangan.java**
